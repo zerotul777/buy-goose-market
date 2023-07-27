@@ -1,0 +1,74 @@
+[    
+    {
+        "id": "el1",
+        "name": "Апполония",
+        "img": "img/catalog/Appolonia.jpg",
+        "price": 25990
+    },
+    {
+        "id": "el2",
+        "name": "Мальвина",
+        "img": "img/catalog/Illina.jpg",
+        "price": 22990
+    },
+    {
+        "id": "el3",
+        "name": "Инесса",
+        "img": "img/catalog/Inessa.jpg",
+        "price": 20490
+    },
+    {
+        "id": "el4",
+        "name": "Корнелия",
+        "img": "img/catalog/Kornelia.jpg",
+        "price": 27990
+    },
+    {
+        "id": "el5",
+        "name": "Лия",
+        "img": "img/catalog/Lia.jpg",
+        "price": 21490
+    },
+    {
+        "id": "el6",
+        "name": "Мэри",
+        "img": "img/catalog/Mery.jpg",
+        "price": 19990
+    },
+    {
+        "id": "el7",
+        "name": "Милина",
+        "img": "img/catalog/Milana.jpg",
+        "price": 26990
+    },
+    {
+        "id": "el8",
+        "name": "Океана",
+        "img": "img/catalog/Okeana.jpg",
+        "price": 34990
+    },
+    {
+        "id": "el9",
+        "name": "Снежанна",
+        "img": "img/catalog/Snajanna.jpg",
+        "price": 31990
+    },
+    {
+        "id": "el10",
+        "name": "Забава",
+        "img": "img/catalog/Zabava.jpg",
+        "price": 34990
+    },
+    {
+        "id": "el11",
+        "name": "Луиза",
+        "img": "img/catalog/Loise.jpg",
+        "price": 35990
+    },
+    {
+        "id": "el12",
+        "name": "Белла",
+        "img": "img/catalog/Bella.jpg",
+        "price": 17990
+    }
+]
